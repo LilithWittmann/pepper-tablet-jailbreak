@@ -13,9 +13,6 @@
   <behaviorContent path="behavior_1">
    <userRequestable/>
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
