@@ -1,4 +1,4 @@
-# pepper-hack
+# pepper-tablet-jailbreak
 This is a pepper Application that makes the Android Tablet usable on a Pepper 1.8a. So you can use it for debugging, install android apps on it, … 
 
 ## Background
@@ -19,4 +19,7 @@ Things used:
 
 Both of these things will be installed natively when you run the hack, however, you'll need to manually root the device, so just open Kingoroot and do it. (It might fail the 1st time, so just do it again.).
 As for ADB Wifi, just allow it root access and enable it and it's ready.
+
+![Pepper](pepper.jpg)
+![Pepper Tablet](pepper_tablet.jpg)
 
